@@ -102,7 +102,7 @@ If you find this project useful, you can support development:
 
 ## 🔗 Links
 
-* GTA5Mods Page: *(add your link here)*
+* GTA5Mods Page: https://www.gta5-mods.com/scripts/advanced-custom-blips-fe7d9d03-1fc1-4088-9fae-005dc2b1a270#description_tab
 * Add-On Blips: https://www.gta5-mods.com/scripts/addon-blips
 
 ---
