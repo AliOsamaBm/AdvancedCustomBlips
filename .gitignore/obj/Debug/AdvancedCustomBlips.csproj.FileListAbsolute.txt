@@ -1,0 +1,13 @@
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\AdvancedCustomBlips.dll
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\AdvancedCustomBlips.pdb
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\INIFileParser.dll
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\LemonUI.SHVDN3.dll
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\NativeUI.dll
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\Newtonsoft.Json.dll
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\ScriptHookVDotNet3.dll
+D:\restored\source\repos\0\AdvancedCustomBlips\bin\Debug\ScriptHookVDotNet3.pdb
+D:\restored\source\repos\0\AdvancedCustomBlips\obj\Debug\AdvancedCustomBlips.csproj.AssemblyReference.cache
+D:\restored\source\repos\0\AdvancedCustomBlips\obj\Debug\AdvancedCustomBlips.csproj.CoreCompileInputs.cache
+D:\restored\source\repos\0\AdvancedCustomBlips\obj\Debug\Advanced.93FF5958.Up2Date
+D:\restored\source\repos\0\AdvancedCustomBlips\obj\Debug\AdvancedCustomBlips.dll
+D:\restored\source\repos\0\AdvancedCustomBlips\obj\Debug\AdvancedCustomBlips.pdb

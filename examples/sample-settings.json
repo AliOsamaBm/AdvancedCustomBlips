@@ -1,0 +1,11 @@
+{
+  "ToggleCoordinatesKey": "F1",
+  "ReloadBlipsKey": "F2",
+  "ToggleBlipsVisibilityKey": "F3",
+  "ToggleModdedTextureSheetKey": "F5",
+  "OpenMenuKey": "F10",
+  "ShowBlipLoadNotification": true,
+  "EnableAddOnBlips": false,
+  "AutoCheckForUpdatesOnStartup": true,
+  "UseModdedTextureSheet": false
+}

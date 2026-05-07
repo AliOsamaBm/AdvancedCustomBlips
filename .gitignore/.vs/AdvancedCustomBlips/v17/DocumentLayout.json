@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\restored\\source\\repos\\0\\AdvancedCustomBlips\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{741B6C5B-D761-4630-9AF7-B07E8AEE9F83}|AdvancedCustomBlips.csproj|d:\\restored\\source\\repos\\0\\advancedcustomblips\\advancedcustomblips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741B6C5B-D761-4630-9AF7-B07E8AEE9F83}|AdvancedCustomBlips.csproj|solutionrelative:advancedcustomblips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvancedCustomBlips.cs",
+              "DocumentMoniker": "D:\\restored\\source\\repos\\0\\AdvancedCustomBlips\\AdvancedCustomBlips.cs",
+              "RelativeDocumentMoniker": "AdvancedCustomBlips.cs",
+              "ToolTip": "D:\\restored\\source\\repos\\0\\AdvancedCustomBlips\\AdvancedCustomBlips.cs",
+              "RelativeToolTip": "AdvancedCustomBlips.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:50:47.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
