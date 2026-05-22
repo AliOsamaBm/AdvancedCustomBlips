@@ -61,6 +61,12 @@
     <Compile Include="AdvancedCustomBlips.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\VanillaTextureSheet\image.png" />
+    <EmbeddedResource Include="Assets\VanillaTextureSheet\image1.png" />
+    <EmbeddedResource Include="Assets\VanillaTextureSheet\image2.png" />
+    <EmbeddedResource Include="Assets\VanillaTextureSheet\Mouse Pointer.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>COPY "$(TargetPath)" "D:\GTAV\scripts"</PostBuildEvent>
