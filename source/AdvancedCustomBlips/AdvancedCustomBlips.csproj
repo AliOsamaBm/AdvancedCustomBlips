@@ -32,19 +32,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="INIFileParser">
-      <HintPath>..\..\..\..\..\GTAV\scripts\INIFileParser.dll</HintPath>
+      <HintPath>Dependencies\INIFileParser.dll</HintPath>
     </Reference>
     <Reference Include="LemonUI.SHVDN3">
-      <HintPath>..\..\..\..\..\GTAV\scripts\LemonUI.SHVDN3.dll</HintPath>
+      <HintPath>Dependencies\LemonUI.SHVDN3.dll</HintPath>
     </Reference>
     <Reference Include="NativeUI">
-      <HintPath>..\..\..\..\..\GTAV\scripts\NativeUI.dll</HintPath>
+      <HintPath>Dependencies\NativeUI.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\..\..\GTAV\scripts\Newtonsoft.Json.dll</HintPath>
+      <HintPath>Dependencies\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="ScriptHookVDotNet3">
-      <HintPath>..\..\..\..\..\GTAV\ScriptHookVDotNet3.dll</HintPath>
+      <HintPath>Dependencies\ScriptHookVDotNet3.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -68,7 +68,4 @@
     <EmbeddedResource Include="Assets\VanillaTextureSheet\Mouse Pointer.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <PropertyGroup>
-    <PostBuildEvent>COPY "$(TargetPath)" "D:\GTAV\scripts"</PostBuildEvent>
-  </PropertyGroup>
 </Project>
