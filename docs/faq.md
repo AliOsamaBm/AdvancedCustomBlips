@@ -100,12 +100,7 @@ You have two options (Detailed explaination is in docs -> guides -> controls-and
 
 ## 🧪 Is this compatible with GTA V Enhanced?
 
-Support is **not guaranteed**.
-
-* The mod is developed and tested on **GTA V Legacy**
-* Enhanced support may work, but is unconfirmed
-
-If you are using Enhanced and want to help test, feel free to contribute.
+Yes, this mod is compatible with both the Legacy and Enhanced versions of GTA V.
 
 ---
 

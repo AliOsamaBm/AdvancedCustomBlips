@@ -1,3 +1,7 @@
+* **v4.2.2 – Support for Enhanced Version of GTA V**
+
+  * Improved: The script is now compatible with GTA V Enhanced, thanks to [FastBurst](https://www.gta5-mods.com/users/FastBurst) for testing and helping in bringing the support for it
+
 * **v4.2.1 – Open Source Under GPLv2 License**
 
   * Improved: Released the source code of the script under GPLv2 license on my GitHub account, check it out [Source Code](af)

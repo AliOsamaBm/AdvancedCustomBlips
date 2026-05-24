@@ -1,6 +1,17 @@
 # Advanced Custom Blips
 
-Advanced Custom Blips is a powerful and lightweight script mod for Grand Theft Auto V (Legacy) that allows you to create, edit, and manage custom map blips with full control and flexibility.
+Advanced Custom Blips is a powerful and lightweight script mod for Grand Theft Auto V that allows you to create, edit, and manage custom map blips with full control and flexibility.
+
+The mod supports:
+
+* Grand Theft Auto V Legacy
+
+  * Script Hook V .NET (nightly)
+  * Script Hook V .NET Enhanced (SHVDNE)
+
+* Grand Theft Auto V Enhanced
+
+  * Script Hook V .NET Enhanced (SHVDNE)
 
 ---
 
@@ -17,7 +28,7 @@ Advanced Custom Blips is a powerful and lightweight script mod for Grand Theft A
 * JSON-based storage (with automatic INI migration)
 * Predefined locations (gas stations, police, fire departments, ATMs, etc.)
 * Lightweight and performance-friendly
-* Open source under Under GPLv2 license
+* Open source under GPLv2 license
 
 ---
 
@@ -37,19 +48,40 @@ Advanced Custom Blips is a powerful and lightweight script mod for Grand Theft A
 
 ## 📦 Requirements
 
-* Grand Theft Auto V (Legacy)
+### Required for ALL Versions
+
 * Script Hook V
-* Script Hook V .NET (nightly)
 * .NET Framework 4.8
+
+### GTA V Legacy
+
+You must install ONE of the following:
+
+* Script Hook V .NET (nightly)
+* OR Script Hook V .NET Enhanced (SHVDNE)
+
+### GTA V Enhanced
+
+You MUST install:
+
+* Script Hook V .NET Enhanced (SHVDNE)
 
 ---
 
 ## 📥 Installation
 
-1. Install all requirements listed above
-2. Extract files into your `scripts` folder
-3. Launch the game
-4. Press **F10** to open the menu
+1. Install all required dependencies
+2. Run `Install Helper.bat` (recommended)
+3. Follow the automatic detection or manual selection instructions
+4. Extract the correct folder contents into your `scripts` folder
+5. Launch the game
+6. Press **F10** to open the menu
+
+For detailed instructions, see:
+
+```text
+Installation.md
+```
 
 ---
 
@@ -72,8 +104,22 @@ You can edit these manually, but using the in-game menu is recommended.
 
 ## 📌 Notes
 
-* Not fully tested on GTA V Enhanced version
+* The correct build depends on BOTH:
+
+  * Your GTA V version
+  * Your Script Hook V .NET version
+
+* GTA V Legacy users can use:
+
+  * Script Hook V .NET (nightly)
+  * OR SHVDNE
+
+* GTA V Enhanced users must use:
+
+  * SHVDNE only
+
 * Some blip icons may not be selectable due to missing IDs
+
 * Flash interval only works when flashing is enabled
 
 ---
@@ -81,6 +127,7 @@ You can edit these manually, but using the in-game menu is recommended.
 ## 🤝 Contributing
 
 Contributions are welcome!
+
 Please read the `CONTRIBUTING.md` file before submitting changes.
 
 ---
@@ -88,6 +135,7 @@ Please read the `CONTRIBUTING.md` file before submitting changes.
 ## 📜 License
 
 This project is licensed under the **GNU General Public License v2.0 (GPLv2)**.
+
 See the `LICENSE` file for details.
 
 ---
@@ -102,8 +150,20 @@ If you find this project useful, you can support development:
 
 ## 🔗 Links
 
-* GTA5Mods Page: https://www.gta5-mods.com/scripts/advanced-custom-blips-fe7d9d03-1fc1-4088-9fae-005dc2b1a270#description_tab
-* Add-On Blips: https://www.gta5-mods.com/scripts/addon-blips
+* GTA5Mods Page:
+  https://www.gta5-mods.com/scripts/advanced-custom-blips-fe7d9d03-1fc1-4088-9fae-005dc2b1a270#description_tab
+
+* Add-On Blips:
+  https://www.gta5-mods.com/scripts/addon-blips
+
+* Script Hook V:
+  http://www.dev-c.com/gtav/scripthookv/
+
+* Script Hook V .NET (nightly):
+  https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases
+
+* Script Hook V .NET Enhanced (SHVDNE):
+  https://www.gta5-mods.com/tools/script-hook-v-net-enhanced
 
 ---
 
