@@ -1,3 +1,7 @@
+* **v4.3.0 – Remember Blip Visibility**
+
+  * Added: The script now remembers if your custom blips were hidden or visible when you last closed the game, automatically applying your preferred visibility state on startup.
+  
 * **v4.2.2 – Support for Enhanced Version of GTA V**
 
   * Improved: The script is now compatible with GTA V Enhanced, thanks to [FastBurst](https://www.gta5-mods.com/users/FastBurst) for testing and helping in bringing the support for it

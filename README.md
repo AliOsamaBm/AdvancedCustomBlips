@@ -20,7 +20,7 @@ The mod supports:
 * Create, edit, copy, delete, and teleport to custom blips in-game
 * 10+ editable properties (icon, color, size, transparency, flashing, etc.)
 * Real-time preview blip before saving
-* On-screen icon selector with color preview
+* On-screen icon selector with color preview and the ability to switch between modded and vanilla texture sheets
 * Support for Add-On Blips (.txt files)
 * 930+ blip icons and 80+ colors
 * Configurable hotkeys
