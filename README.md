@@ -22,7 +22,7 @@ The mod supports:
 * Real-time preview blip before saving
 * On-screen icon selector with color preview and the ability to switch between modded and vanilla texture sheets
 * Support for Add-On Blips (.txt files)
-* 930+ blip icons and 80+ colors
+* 940+ blip icons and 80+ colors
 * Configurable hotkeys
 * Group system for organizing blips
 * JSON-based storage (with automatic INI migration)
