@@ -1,3 +1,7 @@
+* **v4.3.1 – More Blips**
+
+  * Added: 8 More blips.
+  
 * **v4.3.0 – Remember Blip Visibility**
 
   * Added: The script now remembers if your custom blips were hidden or visible when you last closed the game, automatically applying your preferred visibility state on startup.
